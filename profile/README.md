@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rasd-technologies/.github/main/profile/assets/rasd-banner.svg" alt="RASD Technologies — Awareness. Everywhere. Distributed radar sensing." width="100%" />
+  <img src="https://raw.githubusercontent.com/rasd-technologies/.github/main/profile/assets/rasd-banner.svg" alt="RASD Technologies — Awareness everywhere. Distributed radar sensing." width="100%" />
 </p>
 
 <p align="center">
-  <strong>Physical signals. Useful awareness.</strong><br />
+  <strong>Awareness everywhere.</strong><br />
   Accessible radar sensing, built from the hardware up.
 </p>
 

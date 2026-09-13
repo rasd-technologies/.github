@@ -2,6 +2,8 @@
 
 Public-profile content for `rasd-technologies/.github`.
 
+Brand rule: the company motto is **Awareness everywhere.** Do not replace it with an alternate tagline. The mark’s lower-right accent is a separated 45-degree stroke, ending at the same baseline as the upright strokes.
+
 - `profile/README.md` is displayed on the organization overview.
 - `profile/assets/rasd-banner.svg` is the self-contained, static brand banner.
 - The banner URL expects the public repository's default branch to be `main`.
