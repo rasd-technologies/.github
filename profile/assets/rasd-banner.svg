@@ -22,7 +22,7 @@
     <g fill="none" stroke="#dec69b"><circle cx="1183" cy="117" r="4"/><path d="M1167 108v-7h7m18 0h7v7m0 18v7h-7m-18 0h-7v-7"/></g>
     <g transform="translate(63 46)" fill="none" stroke="#e9e7df" stroke-width="3">
       <path d="M5 29V7h12c9 0 14 6 14 13M12 29V14h5c5 0 7 3 7 6"/>
-      <path d="M22 22L29 29" stroke="#c6cfac" stroke-linecap="butt"/><circle cx="17" cy="21" r="2" fill="#c6cfac" stroke="none"/>
+      <path d="M17 21L29 29" stroke="#c6cfac" stroke-linecap="butt"/><circle cx="17" cy="21" r="2" fill="#c6cfac" stroke="none"/>
     </g>
     <text x="113" y="74" fill="#e9e7df" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="5">RASD</text>
     <text x="64" y="174" fill="#b9c5b8" font-family="monospace" font-size="11" letter-spacing="3">DISTRIBUTED RADAR SENSING</text>

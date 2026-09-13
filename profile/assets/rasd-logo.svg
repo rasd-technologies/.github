@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">RASD Technologies logo</title>
+  <g transform="translate(6 6)" fill="none" stroke-width="3">
+    <path d="M5 29V7h12c9 0 14 6 14 13M12 29V14h5c5 0 7 3 7 6" stroke="#e9e7df"/>
+    <path d="M17 21L29 29" stroke="#c6cfac"/>
+    <circle cx="17" cy="21" r="2" fill="#c6cfac" stroke="none"/>
+  </g>
+</svg>

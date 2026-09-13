@@ -2,7 +2,9 @@
 
 Public-profile content for `rasd-technologies/.github`.
 
-Brand rule: the company motto is **Awareness everywhere.** Do not replace it with an alternate tagline. The mark’s lower-right accent is a separated 45-degree stroke, ending at the same baseline as the upright strokes.
+Brand rule: the company motto is **Awareness everywhere.** Do not replace it with an alternate tagline. The mark’s lower-right accent connects directly to the center dot and ends at the upright strokes’ baseline.
+
+Standalone assets: `profile/assets/rasd-logo.svg` and `.png` have transparent backgrounds. `profile/assets/rasd-avatar.svg` and `.png` use the charcoal background for the organization profile picture.
 
 - `profile/README.md` is displayed on the organization overview.
 - `profile/assets/rasd-banner.svg` is the self-contained, static brand banner.
